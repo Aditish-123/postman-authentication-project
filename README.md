@@ -24,7 +24,10 @@ This project demonstrates a complete authentication flow using Postman and ReqRe
 5. Validate response
 
 ## Screenshots
-(Add screenshots here)
+<img width="1920" height="1080" alt="Screenshot (920)" src="https://github.com/user-attachments/assets/854e5129-0bb0-4932-996f-6a520ecb5d71" />
+<img width="1920" height="1080" alt="Screenshot (919)" src="https://github.com/user-attachments/assets/38da07bc-d344-49b1-a229-24d3c831eaa5" />
+<img width="1920" height="1080" alt="Screenshot (921)" src="https://github.com/user-attachments/assets/9b608c88-800c-40ce-87ea-aa62ab7a1e1b" />
+
 
 ## How to Run
 1. Import collection JSON
